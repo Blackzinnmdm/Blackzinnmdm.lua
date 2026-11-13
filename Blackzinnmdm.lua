@@ -110,4 +110,3 @@ end)
 icon.MouseButton1Click:Connect(function()
     panel.Visible = not panel.Visible
 end)
-
